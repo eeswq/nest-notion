@@ -1,0 +1,11 @@
+{
+  "name": "nest-notion",
+  "version": "1.0.0",
+  "description": "원티드 nest-notion 팀과제",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
